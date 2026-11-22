@@ -1,0 +1,20 @@
+
+# Build output
+build/
+cmake-build-*/
+
+# Executables and compiled files
+*.exe
+*.o
+*.obj
+*.dll
+*.a
+*.lib
+
+# IDE files
+.vscode/
+.vs/
+
+# Operating system
+.DS_Store
+Thumbs.db
